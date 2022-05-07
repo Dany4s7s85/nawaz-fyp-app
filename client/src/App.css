@@ -1,0 +1,48 @@
+.MainInputFieldDiv{
+    display: flex;
+    justify-content: center;
+}
+
+.MainInputFieldDiv div{
+    width: 400px;
+    margin: 10px 10px 10px 10px;
+    justify-content: baseline;
+    padding-top: 100px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.MainInputFieldDiv input{
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: aliceblue;
+}
+
+.MainInputFieldDiv button{
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.tableMainDiv table{
+    width: 100%;
+}
+
+.tableMainDiv td{
+    border:1px solid black;
+}
+
+.tableMainDiv th{
+    border:1px solid black;
+
+}
+
+td:hover{
+    background-color: aquamarine;
+}
+
+.MycutomColor{
+    background-color: green;
+    color: white;
+}
